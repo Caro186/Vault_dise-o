@@ -1,0 +1,1 @@
+Son los requerimientos necesarios del sistema para asegurarse que se cumplan los requerimientos del usuario.

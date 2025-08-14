@@ -16,15 +16,247 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "d1c39ce1bbc4dd2b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6e01e81c83bc2596",
+            "id": "addb4f2b82962443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder"
+            }
+          },
+          {
+            "id": "1536c62ad7e1487e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requerimientos de Negocio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Negocio"
+            }
+          },
+          {
+            "id": "6c64966162f5b959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requerimientos de Sistema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Sistema"
+            }
+          },
+          {
+            "id": "7aef1208fa386bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requerimientos de Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos de Funcionales"
+            }
+          },
+          {
+            "id": "50391879b28c4969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requerimientos No Funcionales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimientos No Funcionales"
+            }
+          },
+          {
+            "id": "eeefde640bcfd100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofía Ágil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filosofía Ágil"
+            }
+          },
+          {
+            "id": "f8752e93150cc8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "f5318fb352e54251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Backlog"
+            }
+          },
+          {
+            "id": "676cc09efb74da7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprint Backlog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Backlog"
+            }
+          },
+          {
+            "id": "e30652ba88be1d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velocity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velocity"
+            }
+          },
+          {
+            "id": "f3ea4ba04a2c101b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story Points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Story Points"
+            }
+          },
+          {
+            "id": "62c43ee9fa5ec410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning Poker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning Poker"
+            }
+          },
+          {
+            "id": "bbfa8030ff47102c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Owner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Product Owner"
+            }
+          },
+          {
+            "id": "75d5df28a36e5696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taskboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taskboard"
+            }
+          },
+          {
+            "id": "985587db8b1c3e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User Story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Story"
+            }
+          },
+          {
+            "id": "9de964b1731a474e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition of Done (DoD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition of Done (DoD)"
+            }
+          },
+          {
+            "id": "57a33cbc624c90a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprint Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Planning"
+            }
+          },
+          {
+            "id": "ba7ed80166cd4472",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -33,7 +265,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -90,7 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 271.5
   },
   "right": {
     "id": "b48d4a9d9d6732fe",
@@ -177,8 +410,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70ef639186410523",
+  "active": "ba7ed80166cd4472",
   "lastOpenFiles": [
+    "Definition of Done (DoD).md",
+    "Filosofía Ágil.md",
+    "Pruebas Funcionales.md",
+    "Sprint Planning.md",
+    "User Story.md",
+    "Taskboard.md",
+    "Product Owner.md",
+    "Planning Poker.md",
+    "Story Points.md",
+    "Velocity.md",
+    "Sprint Backlog.md",
+    "Product Backlog.md",
+    "Scrum.md",
+    "Requerimientos No Funcionales.md",
+    "Requerimientos de Funcionales.md",
+    "Requerimientos de Sistema.md",
+    "Requerimientos de Negocio.md",
+    "Stakeholder.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "2025-08-13.md",
     "Welcome.md"
   ]

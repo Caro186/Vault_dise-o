@@ -1,0 +1,1 @@
+Describe la funcionalidad de software desde el usuario, nada tecnico sino la necesidad del ususario.

@@ -1,0 +1,1 @@
+Es la persona que conecta las visiones de los stakeholder con los desarrolladores, es el que da vistos buenos o malos.

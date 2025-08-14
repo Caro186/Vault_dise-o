@@ -1,0 +1,1 @@
+Los requerimientos de negocio son aquellos requerimientos que el neegocio define los objetivos y las metas requeridas para definir como exito o no el producto. 

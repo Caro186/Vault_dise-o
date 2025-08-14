@@ -1,0 +1,1 @@
+Es la medida utilizada para calcular la cantidad de trabajo que un equipo puede sacar en un solo sprint.

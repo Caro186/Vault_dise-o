@@ -1,0 +1,1 @@
+Un stakeholder son la personas que se ven relacionadas por el desarrollo de un producto, desde las personas que se encargan de diseñar, invertir, proveer materiales hasta los usuarios finales. 

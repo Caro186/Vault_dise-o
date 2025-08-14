@@ -1,0 +1,1 @@
+Describen atributos asociados a restricciones del producto, determinan que tan bien funciona el producto.

@@ -1,0 +1,1 @@
+Primera reunión donde se define que se realizará en el sprint, en este participan el Scrum master y el equipo desarrollador.

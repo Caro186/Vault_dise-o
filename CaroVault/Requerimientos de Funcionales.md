@@ -1,0 +1,1 @@
+Describe lo que se debe implementar por los desarrolladores para que se cumplan las expectativas del usuario, ademas describen como debe de comportarse el sistema bajo ciertas condiciones. 

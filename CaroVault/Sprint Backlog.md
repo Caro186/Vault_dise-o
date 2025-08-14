@@ -1,0 +1,1 @@
+Lista más reducida de tareas para cada sprint. 

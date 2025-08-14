@@ -1,0 +1,1 @@
+Es una tabla con la cual se puede visualizar el flujo del trabajo. 

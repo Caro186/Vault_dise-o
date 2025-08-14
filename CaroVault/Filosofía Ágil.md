@@ -1,0 +1,1 @@
+Forma de trabajar en equipo para desarrollar proyectos de manera flexible, este incluye mucha comunicación, entregas concurrentes y cambios,

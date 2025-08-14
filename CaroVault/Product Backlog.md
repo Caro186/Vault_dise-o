@@ -1,0 +1,1 @@
+Se refiere a una lista de todo el trabajo que se necesita hacer por todo el equipo. 

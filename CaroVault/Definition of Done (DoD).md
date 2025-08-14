@@ -1,0 +1,1 @@
+Son los criterios que se deben de cumplir con el fin de etiquetar la historia como completa, esto es definido por el product owner y el equipo de trabajo.

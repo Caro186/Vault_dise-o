@@ -1,0 +1,1 @@
+Es una forma en que todo el equipo de desarrollo participe en la estimación del esfuerzo de las tareas por medio de un juego de cartas (contrucción compartida de tareas).

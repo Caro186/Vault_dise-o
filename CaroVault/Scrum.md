@@ -1,0 +1,1 @@
+Una forma de metodología ágil, es un proceso iterativo donde se trabaja por sprints los cuales son ciclos de trabajo donde se obtiene retroalimentación y de ser necesario se hacen los cambios.

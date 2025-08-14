@@ -1,0 +1,1 @@
+Son pruebas que responde a la pregutna: "El software hace lo que se supone que debe de hacer"?  Se enfoca en la experiencia del usuario, no nos importa saber que hay por dentro.

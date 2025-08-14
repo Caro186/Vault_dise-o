@@ -1,0 +1,1 @@
+Es una forma de  medir el esfuerzo que conlleva alguna tarea según la complejidad, el esfuerzo, riesgo.
