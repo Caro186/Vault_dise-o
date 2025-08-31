@@ -1,0 +1,1 @@
+El mecanismo de atención en Transformers compara Queries con Keys para calcular qué palabras son más relevantes, usa esos pesos para combinar los Values y, con varios cabezales de atención en paralelo, genera representaciones más ricas y contextuales de la secuencia.

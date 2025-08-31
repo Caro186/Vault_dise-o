@@ -1,0 +1,1 @@
+La ventana de contexto es la cantidad máxima y fija de tokens que un modelo Transformer puede procesar a la vez. Este límite actúa como un cuello de botella, afecta la coherencia en textos largos y usa codificación posicional para entender el orden de las palabras.

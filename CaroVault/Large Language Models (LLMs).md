@@ -1,0 +1,1 @@
+Modelo de AI de lenguaje el cual es realmente extenso y avanzado. Este tiene como objetivo entender y analizar el texto introducido, además de poder generarlo de manera fluida. Es necesario recalcar que utiliza la arquitectura transformer el cual es un tipo de red neuronal y para su entrenamiento utiliza billones de datos de entrada.

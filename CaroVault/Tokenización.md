@@ -1,0 +1,1 @@
+La tokenización consiste en dividir el texto en partes más pequeñas llamadas tokens estas pueden ser palabras, caracteres o partes de palabras, una vez esto hecho los embeddings transforman esos tokens en representaciones numéricas que la IA puede procesar.

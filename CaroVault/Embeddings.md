@@ -1,0 +1,1 @@
+Los embeddings son vectores de números multidimensionales que representan palabras. La distancia y dirección en este espacio muestran qué palabras son semánticamente parecidas, y en Transformers estos vectores se ajustan según el contexto y la posición de cada palabra para entender mejor el significado del texto.
