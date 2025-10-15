@@ -1,0 +1,1 @@
+La latencia es el tiempo que tarda una aplicación en responder a una solicitud o completar una tarea específica.

@@ -1,0 +1,1 @@
+El throughput de una aplicación es la cantidad de operaciones o tareas que el sistema puede manejar en un tiempo determinado, normalmente medido bajo carga o picos de uso.

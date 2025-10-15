@@ -341,16 +341,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Backlog.md",
+                "file": "Velocity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Backlog"
+              "title": "Velocity"
+            }
+          },
+          {
+            "id": "e478464a68c029e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrategia de modelado de la arquitectura por puntos de vista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrategia de modelado de la arquitectura por puntos de vista"
+            }
+          },
+          {
+            "id": "ac46d5327a7bab4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trade-off en el Diseño y Arquitectura de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trade-off en el Diseño y Arquitectura de Software"
+            }
+          },
+          {
+            "id": "218e4f2a00296f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disponibilidad de la aplicación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disponibilidad de la aplicación"
+            }
+          },
+          {
+            "id": "fc9203b1d0d5908e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latencia"
+            }
+          },
+          {
+            "id": "1009c71d5de15ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Throughput.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Throughput"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -486,6 +556,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -494,8 +565,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6dca8ac5962b61f",
+  "active": "1009c71d5de15ae3",
   "lastOpenFiles": [
+    "Latencia.md",
+    "Throughput.md",
+    "Disponibilidad de la aplicación.md",
+    "Trade-off en el Diseño y Arquitectura de Software.md",
+    "Estrategia de modelado de la arquitectura por puntos de vista.md",
+    "Velocity.md",
+    "Taskboard.md",
+    "Sprint Backlog.md",
+    "Requerimientos de Sistema.md",
+    "Product Backlog.md",
     "Tokenización.md",
     "Embeddings.md",
     "Ventana de Contexto del modelo.md",
@@ -507,22 +588,12 @@
     "Filosofía Ágil.md",
     "Pruebas Funcionales.md",
     "User Story.md",
-    "Taskboard.md",
     "Product Owner.md",
     "Planning Poker.md",
     "Story Points.md",
-    "Velocity.md",
-    "Sprint Backlog.md",
-    "Product Backlog.md",
     "Scrum.md",
     "Requerimientos No Funcionales.md",
-    "Requerimientos de Funcionales.md",
-    "Requerimientos de Sistema.md",
-    "Requerimientos de Negocio.md",
-    "Stakeholder.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2025-08-13.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
