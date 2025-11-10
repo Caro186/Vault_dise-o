@@ -1,0 +1,1 @@
+La cohesión es cuando las partes de un módulo o componente de software están bien relacionadas entre sí y trabajan juntas para cumplir una sola función. Un sistema con alta cohesión es más fácil de entender, mantener y modificar sin afectar otras partes del programa.

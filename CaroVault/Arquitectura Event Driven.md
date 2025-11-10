@@ -1,0 +1,2 @@
+La Arquitectura Event-Driven (EDA) es un estilo de diseño en el que los sistemas reaccionan a eventos o sucesos que ocurren en tiempo real. En este modelo, los componentes están desacoplados y se comunican de forma asíncrona mediante un intermediario o broker que distribuye los eventos a los servicios interesados. Este enfoque permite construir sistemas más escalables, flexibles y resilientes, ya que cada componente actúa solo cuando ocurre un evento relevante, sin depender directamente de los demás.
+
