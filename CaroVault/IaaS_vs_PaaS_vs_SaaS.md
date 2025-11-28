@@ -1,0 +1,1 @@
+IaaS, PaaS y SaaS son modelos de servicios en la nube que difieren por su nivel de control y responsabilidad: IaaS ofrece infraestructura virtual gestionada parcialmente por el proveedor, PaaS proporciona una plataforma lista para desarrolladores, y SaaS entrega software completo gestionado para el usuario final.

@@ -1,0 +1,1 @@
+Es un tipo de almacenamiento en la nube que duplica los datos en varios discos dentro del mismo centro de datos para protegerlos frente a fallas de hardware, sin ofrecer protección ante fallas de toda la ubicación.

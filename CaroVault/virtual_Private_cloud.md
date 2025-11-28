@@ -1,0 +1,1 @@
+Un VPC es una capacidad de red de la nube pública que permite definir, segmentar y controlar una red virtual aislada dentro de una región, utilizando servicios gestionados como subnets, firewalls, NAT, VPN y tablas de rutas. 

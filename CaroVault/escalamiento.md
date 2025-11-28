@@ -1,0 +1,1 @@
+El escalamiento vertical (scale up) aumenta la capacidad de un único recurso (CPU, memoria o almacenamiento) para manejar más carga, mientras que el escalamiento horizontal (scale out) añade más instancias o servidores para distribuir la carga, mejorando disponibilidad y redundancia.

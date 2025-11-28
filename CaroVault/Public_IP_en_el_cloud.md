@@ -1,0 +1,1 @@
+Una IP pública es una dirección única que permite que un recurso en la nube sea accesible desde Internet, pudiendo ser estática o dinámica, y sirve como fachada para servicios como balanceadores de carga y la gestión del tráfico de salida.
